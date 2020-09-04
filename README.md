@@ -1,1 +1,1 @@
-<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/418083501/myGLTest/master/BoomLive_qiye.plist"><font size="50">点击下载</font></a>
+[点击下载](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/418083501/myGLTest/master/BoomLive_qiye.plist)
