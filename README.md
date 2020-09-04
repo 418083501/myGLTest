@@ -1,1 +1,1 @@
-<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/418083501/myGLTest/master/BoomLive_qiye.plist"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.10416.svg" /></a>
+<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/418083501/myGLTest/master/BoomLive_qiye.plist">点击下载</a>
