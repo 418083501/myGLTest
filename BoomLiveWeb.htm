@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" >
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>应用</title>
+  <style>
+  span{font-size:2em;color:#ff6600;}
+  </style>
+  
+  <script>
+  
+    function iOSversion() {
+      if (/iP(hone|od|ad)/.test(navigator.platform)) {
+        // supports iOS 2.0 and later: <http://bit.ly/TJjs1V>
+        var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+        return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+      }
+    }
+    
+    
+
+  </script>
+ </head>
+ <body>
+     
+ <script>
+ 
+    ver = iOSversion();
+    if (ver[0] < 5) {
+      alert('需要，ios 5.0.0 系统版本以上支持，请升级系统版本，现在下载可能不会成功！');
+    }
+
+ </script>
+<hr>
+<br/>
+<script>
+    </script>
+  <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/418083501/myGLTest/master/BoomLive_qiye.plist"><font size="50">点击下载</font></a>
+<br/>
+<br/>
+<hr>
+ 
+
+ </body>
+</html>
